@@ -4,14 +4,16 @@ Autotype via continuous message editing till finish.
 
 ![Demo](https://raw.githubusercontent.com/gangural/tg-type/master/demo.gif)
 
-To install enter commands below:
+## Installation
 
-`git clone https://github.com/gangural/tg-type && cd tg-type`
+Clone this repo and go to directory: `git clone https://github.com/gangural/tg-type && cd tg-type`
 
-`sudo pip3 install pyautogui pyperclip`
-
-Run: `python3 tg-type.py`
+Install requirements with pip3: `sudo pip3 install pyautogui pyperclip`
 
 Requirements:
 - [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
 - [pyperclip](https://pypi.org/project/pyperclip/)
+
+## Usage
+
+Run: `python3 tg-type.py`
