@@ -17,3 +17,7 @@ Requirements:
 ## Usage
 
 Run: `python3 tg-type.py`
+
+Also, there are other scripts, for example `loading.py` (which is fun too 😀):
+
+[Loading.py demo](https://i.imgur.com/HEMBBwh.gif)
