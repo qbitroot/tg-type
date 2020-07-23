@@ -2,7 +2,7 @@
 
 Autotype via continuous message editing till finish.
 
-![Demo](https://raw.githubusercontent.com/gangural/tg-type/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/gangural/tg-type/master/demos/tg-type.gif)
 
 ## Installation
 
@@ -20,4 +20,4 @@ Run: `python3 tg-type.py`
 
 Also, there are other scripts, for example `loading.py` (which is fun too 😀):
 
-[Loading.py demo](https://i.imgur.com/HEMBBwh.gif)
+[Loading.py demo](https://raw.githubusercontent.com/gangural/tg-type/master/demos/loading.gif)
