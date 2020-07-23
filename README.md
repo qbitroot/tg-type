@@ -1,4 +1,4 @@
-# tg-type
+# ⌨️ tg-type
 
 Autotype via continuous message editing till finish.
 
