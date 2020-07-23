@@ -20,4 +20,4 @@ Run: `python3 tg-type.py`
 
 Also, there are other scripts, for example `loading.py` (which is fun too 😀):
 
-[Loading.py demo](https://raw.githubusercontent.com/gangural/tg-type/master/demos/loading.gif)
+![Loading.py demo](https://raw.githubusercontent.com/gangural/tg-type/master/demos/loading.gif)
