@@ -16,7 +16,7 @@ Requirements:
 
 ## Usage
 
-Run: `python3 tg-type.py`
+Run: `python3 tg-type.py`, then focus on telegram message input within 3 seconds (you can increase this value in script). Then just wait :D
 
 Also, there are other scripts, for example `loading.py` (which is fun too 😀):
 
