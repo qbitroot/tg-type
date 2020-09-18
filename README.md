@@ -4,6 +4,8 @@ Autotype via continuous message editing till finish.
 
 ![Demo](https://raw.githubusercontent.com/gangural/tg-type/master/demos/tg-type.gif)
 
+TODO: rewrite to `pyrogram`
+
 ## Installation
 
 Clone this repo and go to directory: `git clone https://github.com/gangural/tg-type && cd tg-type`
